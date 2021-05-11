@@ -1,7 +1,7 @@
 ## Descoberta de Composto que são mais ativados
 
 **Alvo de estudo:** O banco de dados utilizado para este projeto está depositado no Kaggle, e é aberto para todos.
-- [Kaggle] (https://www.kaggle.com/c/lish-moa)
+- [Kaggle](https://www.kaggle.com/c/lish-moa)
 
 Links úteis:
 
